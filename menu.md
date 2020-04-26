@@ -8,4 +8,5 @@
 
 ## Что делать
 - [Предисловие и Глава 1. Догматизм и "Свобода критики"](https://zaqokm37.github.io/study/lenin/chto_delat/1.html)
+- [Глава 2. Стихийность масс и сознательность социал-демократии](https://zaqokm37.github.io/study/lenin/chto_delat/2.html)
 
